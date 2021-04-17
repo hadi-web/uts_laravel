@@ -2,7 +2,10 @@
 CRUD Rekam Surat Sederhana menggunakan framework php Laravel versi 8.X
 <br> Dibangun oleh 
 <br> NIM : 18090112
-<br> Nama : Hadi Kusumanto 
+<br> Nama : Hadi Kusumanto
+<br> link aplikasi
+<br>
+<a href="https://http://uts-laravel.herokuapp.com"></a>
 
 <br><br>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
